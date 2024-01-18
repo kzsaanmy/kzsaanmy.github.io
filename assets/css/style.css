@@ -98,7 +98,8 @@ section.main img {
     object-fit: cover;
     border: 10px solid #21222b93;
     cursor: pointer;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    padding-top: 75px;
 }
 
 section.main span {
